@@ -107,7 +107,7 @@ Current |	$105,000,000.00 |	$35,000,000.00
 
 # 8. Conclusions
 
-Our model guarantees an accuracy of around 75%, which means a best case profit of $148,400,000.00
+- Our model guarantees an accuracy of around 75%, which means a best case profit of $148,400,000.00
 
 # 9. Lessons Learned
 
